@@ -1,7 +1,7 @@
 # 👨‍💻 Merhaba, Ben Adem! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Python+%26+Django+Expert;Full-Stack+Dev;AI-Driven;ProjectsAlways+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Python+%26+Django+Expert;Full-Stack+Dev;AI-Driven;Projects+Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 <p align="center">
