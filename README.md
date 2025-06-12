@@ -35,8 +35,6 @@ class Developer:
 ### 🎯 Focus
 
 - ✨ **wfram** — AI-powered Wireframe to Code Platform (SVG-to-React/Django)
-- 🧠 AI, UX automation, layout analysis, intelligent code generation
-- 🛡️ Security-aware development, ethical hacking background
 
 ---
 
