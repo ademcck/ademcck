@@ -23,13 +23,11 @@ class Developer:
         self.frameworks = ["Django", "React", "DRF", "Express"]
         self.databases = ["PostgreSQL", "MySQL", "MongoDB"]
         self.current_focus = "Cyber Security & FullStack Web Development"
-        self.fun_fact = "Kod yazarken kahve içmeyi severim ☕"
+        self.fun_fact = "Yazdığım kodu 1 ay sonra okuyunca 'bu kodu hangi psikopat yazmış?' diyorum. Sonra hatırlıyorum... 😅"
     
-    def say_hi(self):
-        print("Projelerime göz atmayı unutma!")
+    def __str__(self):
+        return "Projelerime göz atmayı unutma!"
 
-me = Developer()
-me.say_hi()
 ```
 
 ---
