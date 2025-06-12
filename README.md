@@ -144,6 +144,4 @@ class Developer:
   
 **"Kod yazmak sanat, hata ayıklamak dedektiflik!"** 🕵️‍♂️
 
-*Bu README otomatik olarak güncellenmektedir* ⚡
-
 </div>
