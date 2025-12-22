@@ -179,7 +179,3 @@ technology:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ademcck&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&bg_color=020617&include_all_commits=true&count_private=true&ring_color=00D9FF" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademcck&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=020617&langs_count=8" alt="Top Languages" />
 </p>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ademcck&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=020617&stroke=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-
-
