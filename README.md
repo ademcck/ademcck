@@ -173,9 +173,3 @@ technology:
 <!-- GitHub Stats Section -->
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ademcck&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&bg_color=020617&include_all_commits=true&count_private=true&ring_color=00D9FF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademcck&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=020617&langs_count=8" alt="Top Languages" />
-</p>
